@@ -6,7 +6,8 @@
 
 * demo仓库：https://github.com/flexyw/tree-search.git
 
-* 项目截图
+* 项目截图  : 在static文件下的项目截图.png
+
 
 * ![](C:\Users\Administrator\Desktop\tree-search\static\插件截图.png)
 
