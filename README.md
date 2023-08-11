@@ -4,7 +4,11 @@
 
 * 注意：必须有id、name(id可通过valueKey来配置为其它键值，如value)字段，且唯一
 
-* demo仓库：
+* demo仓库：https://github.com/flexyw/tree-search.git
+
+* 项目截图
+
+* ![](C:\Users\Administrator\Desktop\tree-search\static\插件截图.png)
 
   ```js
   let list = [
